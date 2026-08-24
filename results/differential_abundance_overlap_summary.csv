@@ -1,0 +1,4 @@
+comparison,baseline_n,ancombc_n,overlap_n,overlap_taxa
+3-group omnibus (KW vs ANCOM-BC global),11,0,0,
+CRC vs control,12,17,12,Anaerobutyricum hallii; Anaerostipes hadrus; Blautia wexlerae; Dialister pneumosintes; Fusobacterium nucleatum; Gemella morbillorum; Lachnospira eligens; Parvimonas micra; Peptostreptococcus stomatis; Ruminococcus bicirculans; Streptococcus salivarius; [Eubacterium] rectale
+adenoma vs control,0,0,0,

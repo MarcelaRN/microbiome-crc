@@ -6,7 +6,7 @@ The diversity analysis included the calculation of the alpha and beta diversity.
 
 Alpha diversity measures how diverse a single sample is internally. It uses the filtered raw relative abundance data, since these metrics are mathematically defined on proportions (not on the CLR-transformed data). The Shannon index combines how many species are present and how evenly they are distributed. The Simpson index is similar but weighted more heavily toward the dominant species. Observed richness simply counts how many species are present, ignoring their abundance.
 
-Results were saved to 'data/processed/alpha*diversity.csv' and plotted as bocplots ('figures/alpha_diversity_boxplot*\*.png') for all three metrics across the three groups (control, CRC, adenoma).
+Results were saved to 'data/processed/alpha*diversity.csv' and plotted as boxplots ('figures/alpha_diversity_boxplot*\*.png') for all three metrics across the three groups (control, CRC, adenoma).
 
 A Kruskal-Wallis test was performed for each metric, to check for significant differences across all three groups simultaneously:
 

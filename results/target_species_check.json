@@ -1,0 +1,10 @@
+{
+  "Fusobacterium nucleatum": {
+    "in_CRC_vs_control": true,
+    "in_adenoma_vs_control": false
+  },
+  "Peptostreptococcus stomatis": {
+    "in_CRC_vs_control": true,
+    "in_adenoma_vs_control": false
+  }
+}

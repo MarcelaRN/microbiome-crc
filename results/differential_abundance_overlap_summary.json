@@ -1,0 +1,30 @@
+{
+  "3-group omnibus": {
+    "KW": 11,
+    "ANCOM-BC global": 0,
+    "overlap": []
+  },
+  "CRC vs control": {
+    "baseline": 12,
+    "ANCOM-BC": 17,
+    "overlap": [
+      "Ruminococcus bicirculans",
+      "Gemella morbillorum",
+      "Streptococcus salivarius",
+      "Parvimonas micra",
+      "Peptostreptococcus stomatis",
+      "[Eubacterium] rectale",
+      "Anaerostipes hadrus",
+      "Blautia wexlerae",
+      "Dialister pneumosintes",
+      "Anaerobutyricum hallii",
+      "Fusobacterium nucleatum",
+      "Lachnospira eligens"
+    ]
+  },
+  "adenoma vs control": {
+    "baseline": 0,
+    "ANCOM-BC": 0,
+    "overlap": []
+  }
+}
